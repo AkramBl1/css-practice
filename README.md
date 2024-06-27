@@ -12,19 +12,9 @@ The exercises are organized by difficulty level and topic. Here's a brief overvi
 4. **Intermediate CSS**: Explore advanced CSS topics such as layouts, flexbox, and grid.
 5. **Responsive Design**: Practice creating responsive web pages that look great on any device.
 
-
-<<<<<<< HEAD
-
 <img src='inc/billing.png' width='413'>
 <img src='inc/profile.png' width='413'>
 <img src='inc/users.png' width='413'>
 <img src='inc/filpcard.gif' width='413'>
 <img src='inc/login.gif' width='413'>
-=======
-<img src='inc/billing.png' width='413'>
-<img src='inc/profile.png' width='413'>
-<img src='inc/users.png' width='413'>
-[ ](./inc/flipcard.mp4)
-[ ](./inc/login.mp4)
->>>>>>> 5b5e084f6c0146782c96857de9f4bb178c277e1a
 
