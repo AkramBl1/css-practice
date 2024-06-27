@@ -15,6 +15,6 @@ The exercises are organized by difficulty level and topic. Here's a brief overvi
 <img src='inc/billing.png' width='413'>
 <img src='inc/profile.png' width='413'>
 <img src='inc/users.png' width='413'>
-<img src='inc/filpcard.gif' width='413'>
+<img src='inc/flipcard.gif' width='413'>
 <img src='inc/login.gif' width='413'>
 
