@@ -13,10 +13,10 @@ The exercises are organized by difficulty level and topic. Here's a brief overvi
 5. **Responsive Design**: Practice creating responsive web pages that look great on any device.
 
 
-<div align=centre>
+
 <img src='inc/billing.png' width='413'>
 <img src='inc/profile.png' width='413'>
 <img src='inc/users.png' width='413'>
-<img src='inc/flipcard.mp4' width='413'>
-<img src='inc/login.mp4' width='413'>
-</div>
+<img src='inc/filpcard.gif' width='413'>
+<img src='inc/login.gif' width='413'>
+
